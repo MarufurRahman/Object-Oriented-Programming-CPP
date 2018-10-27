@@ -1,1 +1,1 @@
-# In this repository i will add OOP implimentation using C++ programming language.
+In this repository I'll add OOP implimentation using C++ programming language.
