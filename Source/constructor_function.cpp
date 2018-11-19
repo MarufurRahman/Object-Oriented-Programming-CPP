@@ -1,8 +1,7 @@
-// Constructor functions
-// Written by Marufur Rahman
+// Constructor function
+// Code written by Marufur Rahman
 
 #include <iostream>
-
 using namespace std;
 
 class Book {
@@ -18,8 +17,7 @@ class Book {
 		}
 };
 
-int main()
-{
+int main() {
 	Book book1("Learn Python the Hard Way", "Zed Shaw", 769);
 	Book book2("Head First Java", "Bert Bates and Kathy Sierra", 701);
 
